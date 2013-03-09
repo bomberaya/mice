@@ -1,0 +1,43 @@
+.mica-table{
+    background-image: url("/style/mica-bcg.gif");
+    width: 450px;
+    height: 450px;
+    background-repeat: no-repeat;
+    float: left;
+}
+.figure{
+    display: block;
+    float: left;
+    width: 100px;
+    height: 450px;
+    border: 1px solid black;
+}
+.pasulj{
+    width: 40px;
+    height: 40px;
+    float: left;
+    background-color: #20fffd;
+    border-radius: 50px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+.kuruz{
+    width: 40px;
+    height: 40px;
+    float: left;
+    background-color: #d5d500;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+.field{
+    float: left;
+    width: 62px;
+    height: 62px;
+    border: 1px solid black;
+}
+.y-field{
+    background-color: rgba(173, 255, 47, 0.60);
+}
+.yellow{
+    background-color: rgba(255, 255, 0, 0.29);
+}
